@@ -20,3 +20,14 @@ C:\Users\DerPc\source\repos\AoC2021\obj\Debug\netcoreapp3.1\AdventOfCode.Assembl
 C:\Users\DerPc\source\repos\AoC2021\obj\Debug\netcoreapp3.1\AdventOfCode.AssemblyInfo.cs
 C:\Users\DerPc\source\repos\AoC2021\obj\Debug\netcoreapp3.1\AdventOfCode.dll
 C:\Users\DerPc\source\repos\AoC2021\obj\Debug\netcoreapp3.1\AdventOfCode.pdb
+C:\Users\DerPc\source\repos\AdventOfCode2021\bin\Debug\netcoreapp3.1\AdventOfCode.exe
+C:\Users\DerPc\source\repos\AdventOfCode2021\bin\Debug\netcoreapp3.1\AdventOfCode.deps.json
+C:\Users\DerPc\source\repos\AdventOfCode2021\bin\Debug\netcoreapp3.1\AdventOfCode.runtimeconfig.json
+C:\Users\DerPc\source\repos\AdventOfCode2021\bin\Debug\netcoreapp3.1\AdventOfCode.runtimeconfig.dev.json
+C:\Users\DerPc\source\repos\AdventOfCode2021\bin\Debug\netcoreapp3.1\AdventOfCode.dll
+C:\Users\DerPc\source\repos\AdventOfCode2021\bin\Debug\netcoreapp3.1\AdventOfCode.pdb
+C:\Users\DerPc\source\repos\AdventOfCode2021\obj\Debug\netcoreapp3.1\AdventOfCode.csprojAssemblyReference.cache
+C:\Users\DerPc\source\repos\AdventOfCode2021\obj\Debug\netcoreapp3.1\AdventOfCode.AssemblyInfoInputs.cache
+C:\Users\DerPc\source\repos\AdventOfCode2021\obj\Debug\netcoreapp3.1\AdventOfCode.AssemblyInfo.cs
+C:\Users\DerPc\source\repos\AdventOfCode2021\obj\Debug\netcoreapp3.1\AdventOfCode.dll
+C:\Users\DerPc\source\repos\AdventOfCode2021\obj\Debug\netcoreapp3.1\AdventOfCode.pdb

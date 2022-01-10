@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DerPc\\Source\\Repos\\AdventOfCode2021\\AdventOfCode.csproj": {}
+    "C:\\Users\\DerPc\\source\\repos\\AdventOfCode2021\\AdventOfCode.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DerPc\\Source\\Repos\\AdventOfCode2021\\AdventOfCode.csproj": {
+    "C:\\Users\\DerPc\\source\\repos\\AdventOfCode2021\\AdventOfCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DerPc\\Source\\Repos\\AdventOfCode2021\\AdventOfCode.csproj",
+        "projectUniqueName": "C:\\Users\\DerPc\\source\\repos\\AdventOfCode2021\\AdventOfCode.csproj",
         "projectName": "AdventOfCode",
-        "projectPath": "C:\\Users\\DerPc\\Source\\Repos\\AdventOfCode2021\\AdventOfCode.csproj",
+        "projectPath": "C:\\Users\\DerPc\\source\\repos\\AdventOfCode2021\\AdventOfCode.csproj",
         "packagesPath": "C:\\Users\\DerPc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DerPc\\Source\\Repos\\AdventOfCode2021\\obj\\",
+        "outputPath": "C:\\Users\\DerPc\\source\\repos\\AdventOfCode2021\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
